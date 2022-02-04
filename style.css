@@ -1,8 +1,8 @@
 body{
-    background-color: #ddd;
+    background-color: #dddd;
 }
 h1{
-    background-color: #ddd;
+    background-color: #dddd;
     color: #333 ;
     width: 13rem;
     border-top-right-radius:12rem;
@@ -14,4 +14,13 @@ h1{
 
 .align-justify {
     text-align: justify;
+}
+
+table tr td:nth-of-type(2){
+    font-style: italic;
+}
+
+.abbreviation{
+    text-decoration: underline dotted;
+    cursor: help;
 }
