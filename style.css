@@ -24,3 +24,14 @@ table tr td:nth-of-type(2){
     text-decoration: underline dotted;
     cursor: help;
 }
+
+.card-img-top{
+    height: 200px;
+    width: unset;
+}
+
+.card{
+    background-color: #eee;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
