@@ -35,3 +35,7 @@ table tr td:nth-of-type(2){
     border-top-left-radius: 60px;
     border-bottom-right-radius: 60px;
 }
+
+.card-title {
+    cursor: pointer;
+}
